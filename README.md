@@ -1,6 +1,7 @@
-# AI Assistant (FRIDAY) &emsp; [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+# FRIDAY AI Assistant &emsp; [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 <br>
-- **Artificial Intelligence Assistant** using Python Programming Language and Libraries.
+
+- __Artificial Intelligence Assistant__ using Python Programming Language and Libraries.
 - Can automate your task.
 <br>
 
