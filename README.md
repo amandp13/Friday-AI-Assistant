@@ -1,16 +1,16 @@
 # AI Assistant (FRIDAY) &emsp; [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)          [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-
 <br>
-- Artificial Intelligence Assistant using Python Programming Language.
-- Can utomate your task.
+- **Artificial Intelligence Assistant** using Python Programming Language and Libraries.
+- Can automate your task.
+<br>
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)      
 
-<img src="image.jpg" width="600" /><br>
+<img src="image.png" width="600" /><br>
 
-Prerequsites:
+## Prerequsites:
 
-- Python 3.6.2 and for Higher veresion Must Check [https://www.lfd.uci.edu/~gohlke/pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio.)
+- Python 3.X and for 3.6+ Version, Must Check [https://www.lfd.uci.edu/~gohlke/pythonlibs](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio.)
 
 - pyttsx3
 - pyaudio
