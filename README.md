@@ -23,4 +23,4 @@
 - requests
 
 ## License
-Licensed under the [MIT License]()
+Licensed under the [MIT License](https://github.com/amandp13/Friday-AI-Assistant/blob/master/LICENSE)
